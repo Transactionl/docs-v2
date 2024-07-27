@@ -3,7 +3,7 @@
     <title>Transactionl Docs</title>
     <link href="https://docs.transactionl.com/feed.xml" rel="self" />
     <link href="https://docs.transactionl.com" />
-    <updated>2024-07-25T23:55:35+01:00</updated>
+    <updated>2024-07-27T22:41:37+01:00</updated>
     <author>
         <name>Transactionl</name>
     </author>
@@ -21,17 +21,24 @@
         <updated>2024-07-25T20:35:56+01:00</updated>
             <summary>
                 <![CDATA[
-                    Thanks Icons - https://lucide.dev/ WHMCS® is a registered trademark of WHMCS Ltd. Joomla® is a registered trademark of Open Source Matters, Inc.
+                    <h2>Special Thanks</h2>
+<p>We'd like to give a special thanks to the following:</p>
+<p><a href="https://lucide.dev/">Lucide Contributors</a> - For providing a great set of icons</p>
+<h2>Trademark Notices</h2>
+<p>Transactionl is not affiliated, associated, authorised, endorsed by, or in any way officially connected with the following brands, companies or any of their subsidiaries or affiliates:</p>
+<p>WHMCS® is a registered trademark of WHMCS Ltd.<br><br>Joomla® is a registered trademark of Open Source Matters, Inc.</p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h2>Thanks</h2>
-<p>Icons - https://lucide.dev/</p>
+                <h2>Special Thanks</h2>
+<p>We'd like to give a special thanks to the following:</p>
+<p><a href="https://lucide.dev/">Lucide Contributors</a> - For providing a great set of icons</p>
 <h2>Trademark Notices</h2>
-<p>WHMCS® is a registered trademark of WHMCS Ltd.</p>
-<p>Joomla® is a registered trademark of Open Source Matters, Inc.</p>
-<p> </p>
+<p>Transactionl is not affiliated, associated, authorised, endorsed by, or in any way officially connected with the following brands, companies or any of their subsidiaries or affiliates:</p>
+<p>WHMCS® is a registered trademark of WHMCS Ltd.<br><br>Joomla® is a registered trademark of Open Source Matters, Inc.</p>
+
             ]]>
         </content>
     </entry>
@@ -152,7 +159,18 @@
         <updated>2024-07-02T02:19:04+01:00</updated>
             <summary>
                 <![CDATA[
-                    If you're wondering about our sending limits and how they work, you're in the right place. Our sending limit is simple: 300 outgoing emails per hour, per mailbox. You may not use multiple mailboxes for the same purpose to circumvent this limit for the same use case. However, you can (and should!) use separate mailboxes for separate purposes/use cases. If you genuinely need to send more than 300 transactional emails per hour, please let us know - we do increase this limit on a case-by-case basis. This is because our provider enforces limits in order to preserve deliverability and prevent abuse by spammers. In this example, our customer has separated their mailboxes for different purposes, so they can send up to 300 outgoing emails/hour for each different purpose/use case: form@example.com - Contact Form Notification (300/h) updates@example.com - WordPress Plugins/Theme/Core Notifications (300/h) billing@example.com - Billing Notifications (300/h) In this example, our customer is using 3 different inboxes for the purpose/same use case, in order to circumvent the 300 outgoing emails/hour limit. This is not allowed, and is considered abuse of our service: billing@example.com - Billing 1 (300/h) billing2@example.com - Billing 2 (600/h) billing3@example.com - Billing 3 (900/h)
+                    <p>If you're wondering about our sending limits and how they work, you're in the right place.</p>
+<h2>What are your sending limits?</h2>
+<p>Our sending limit is simple: 300 outgoing emails per hour, <em>per mailbox</em>.</p>
+<p>You may not use multiple mailboxes for the same purpose to circumvent this limit for the same use case. However, you can (and should!) use separate mailboxes for <em>separate</em> purposes/use cases.</p>
+<p>If you genuinely need to send more than 300 transactional emails per hour, please let us know - we do increase this limit on a case-by-case basis. This is because our provider enforces limits in order to preserve deliverability and prevent abuse by spammers.</p>
+<h3>✅ Allowed</h3>
+<p>In this example, our customer has separated their mailboxes for different purposes, so they can send up to 300 outgoing emails/hour for each different purpose/use case:</p>
+<p>form@example.com - Contact Form Notification (300/h)<br>updates@example.com - WordPress Plugins/Theme/Core Notifications (300/h)<br>billing@example.com - Billing Notifications (300/h)</p>
+<h3>❌ Not allowed</h3>
+<p>In this example, our customer is using 3 different inboxes for the purpose/same use case, in order to circumvent the 300 outgoing emails/hour limit. This is not allowed, and is considered abuse of our service:</p>
+<p>billing@example.com - Billing 1 (300/h)<br>billing2@example.com - Billing 2 (600/h)<br>billing3@example.com - Billing 3 (900/h)</p>
+
                 ]]>
             </summary>
         <content type="html">
@@ -168,6 +186,8 @@
 <h3>❌ Not allowed</h3>
 <p>In this example, our customer is using 3 different inboxes for the purpose/same use case, in order to circumvent the 300 outgoing emails/hour limit. This is not allowed, and is considered abuse of our service:</p>
 <p>billing@example.com - Billing 1 (300/h)<br>billing2@example.com - Billing 2 (600/h)<br>billing3@example.com - Billing 3 (900/h)</p>
+
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -238,15 +258,6 @@
                     <p>One of the questions we hear often at Transactionl is: <em>what is transactional email, and how is it different from other categories of email?</em></p>
 <h2><strong>What are transactional emails? A definition</strong></h2>
 <p>Transactional emails are automated messages triggered by a user's action on a website or application. These personalised emails contain unique content specific to the individual and are typically sent one-to-one. Common examples include:</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>One of the questions we hear often at Transactionl is: <em>what is transactional email, and how is it different from other categories of email?</em></p>
-<h2><strong>What are transactional emails? A definition</strong></h2>
-<p>Transactional emails are automated messages triggered by a user's action on a website or application. These personalised emails contain unique content specific to the individual and are typically sent one-to-one. Common examples include:</p>
-
 <ul>
 <li>Password reset emails</li>
 <li>Account creation emails</li>
@@ -283,6 +294,52 @@
 <li>Vouchers and giveaways</li>
 </ul>
 <p>As we are a <strong>transactional</strong> email service, we do not allow marketing emails to be sent using Transactionl as it damages our sender reputation. We regularly monitor and accounts misusing our services to send marketing emails to ensure excellent sender reputation and inbox placement for our customers.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>One of the questions we hear often at Transactionl is: <em>what is transactional email, and how is it different from other categories of email?</em></p>
+<h2><strong>What are transactional emails? A definition</strong></h2>
+<p>Transactional emails are automated messages triggered by a user's action on a website or application. These personalised emails contain unique content specific to the individual and are typically sent one-to-one. Common examples include:</p>
+<ul>
+<li>Password reset emails</li>
+<li>Account creation emails</li>
+<li>Welcome emails</li>
+<li>Payment invoices</li>
+<li>Purchase receipts</li>
+<li>Order confirmation emails</li>
+<li>Shipping confirmations</li>
+<li>Delivery confirmations</li>
+<li>Payment failure notifications</li>
+</ul>
+<h2>What can I use Transactionl with?</h2>
+<p>Often, our customers use Transactionl with applications on the web such as:</p>
+<ul>
+<li>WordPress</li>
+<li>WooCommerce</li>
+<li>Microsoft Power Automate</li>
+<li>Bubble.io</li>
+<li>Zapier</li>
+<li>WHMCS</li>
+<li>Joomla!</li>
+<li>FreeScout</li>
+<li>..and many more!</li>
+</ul>
+<h2><strong>Why are transactional emails important?</strong></h2>
+<p>In general, recipients often anticipate and eagerly await these emails, frequently refreshing their inbox until they arrive. As a result, transactional emails play a critical role in maintaining a positive user experience and building trust with your customers, which is why we maintain high-reputation IP pools to ensure high levels of deliverability and inbox placement.</p>
+<h2><strong>Transactional vs. Marketing Email</strong></h2>
+<p>Two distinct types of emails exist: transactional and marketing. <strong>Transactional emails</strong> are personalised messages containing unique content, sent individually to each recipient, often in response to a specific action or event. In contrast, <strong>marketing emails</strong> (also referred to as promotional, broadcast, commercial, or bulk emails) involve sending the same message to a large number of recipients at once, with no personalised content. The most common types of marketing email include:</p>
+<ul>
+<li>Newsletters</li>
+<li>Limited-time offers</li>
+<li>Sales campaigns</li>
+<li>Event announcements </li>
+<li>Vouchers and giveaways</li>
+</ul>
+<p>As we are a <strong>transactional</strong> email service, we do not allow marketing emails to be sent using Transactionl as it damages our sender reputation. We regularly monitor and accounts misusing our services to send marketing emails to ensure excellent sender reputation and inbox placement for our customers.</p>
+
+<p> </p>
             ]]>
         </content>
     </entry>
