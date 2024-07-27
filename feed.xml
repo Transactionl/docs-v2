@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Transactionl Docs</title>
+    <link href="https://transactionl.github.io/support-v1/feed.xml" rel="self" />
+    <link href="https://transactionl.github.io/support-v1" />
+    <updated>2024-07-25T23:55:35+01:00</updated>
+    <author>
+        <name>Transactionl</name>
+    </author>
+    <id>https://transactionl.github.io/support-v1</id>
+
+    <entry>
+        <title>Attributions</title>
+        <author>
+            <name>Transactionl</name>
+        </author>
+        <link href="https://transactionl.github.io/support-v1/attributions/"/>
+        <id>https://transactionl.github.io/support-v1/attributions/</id>
+            <category term="Legal"/>
+
+        <updated>2024-07-25T20:35:56+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Thanks Icons - https://lucide.dev/ WHMCS® is a registered trademark of WHMCS Ltd. Joomla® is a registered trademark of Open Source Matters, Inc.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>Thanks</h2>
+<p>Icons - https://lucide.dev/</p>
+<h2>Trademark Notices</h2>
+<p>WHMCS® is a registered trademark of WHMCS Ltd.</p>
+<p>Joomla® is a registered trademark of Open Source Matters, Inc.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Terms of Service</title>
+        <author>
+            <name>Transactionl</name>
+        </author>
+        <link href="https://transactionl.github.io/support-v1/terms-of-service/"/>
+        <id>https://transactionl.github.io/support-v1/terms-of-service/</id>
+            <category term="Legal"/>
+
+        <updated>2024-07-25T20:35:51+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Privacy Policy</title>
+        <author>
+            <name>Transactionl</name>
+        </author>
+        <link href="https://transactionl.github.io/support-v1/privacy-policy/"/>
+        <id>https://transactionl.github.io/support-v1/privacy-policy/</id>
+            <category term="Legal"/>
+
+        <updated>2024-07-25T20:35:37+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Content
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Content</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>What are my SMTP/IMAP/POP3 details?*</title>
+        <author>
+            <name>Transactionl</name>
+        </author>
+        <link href="https://transactionl.github.io/support-v1/what-are-my-smtpimappop3-details/"/>
+        <id>https://transactionl.github.io/support-v1/what-are-my-smtpimappop3-details/</id>
+
+        <updated>2024-07-02T17:12:42+01:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>In most cases, all you require is SMTP to use Transactionl with your application.</p>
+<p><strong>Email Address:</strong> The email address you created in DirectAdmin.<br><strong>Password:</strong> The password you set for the mailbox in DirectAdmin.<br><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><strong>Server/Hostname:</strong> everest.mxrouting.net<br></span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><strong>SMTP SSL Port:</strong> 465 (Recommended)<br></span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">SMTP Non-SSL/STARTTLS: 25, 587, 2525 (Not recommended due to security)</span></p>
+<p>If you'd like to use your own email client to read/delete error messages and bounce notifications, you can use the following protocols/ports:</p>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">IMAP SSL: 993<br></span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">IMAP Non-SSL: 143<br></span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">POP3 SSL: 995<br></span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">POP3 Non-SSL: 110</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>In most cases, all you require is SMTP to use Transactionl with your application.</p>
+<p><strong>Email Address:</strong> The email address you created in DirectAdmin.<br><strong>Password:</strong> The password you set for the mailbox in DirectAdmin.<br><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><strong>Server/Hostname:</strong> everest.mxrouting.net<br></span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><strong>SMTP SSL Port:</strong> 465 (Recommended)<br></span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">SMTP Non-SSL/STARTTLS: 25, 587, 2525 (Not recommended due to security)</span></p>
+<p>If you'd like to use your own email client to read/delete error messages and bounce notifications, you can use the following protocols/ports:</p>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">IMAP SSL: 993<br></span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">IMAP Non-SSL: 143<br></span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">POP3 SSL: 995<br></span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">POP3 Non-SSL: 110</span></p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Do you allow outgoing marketing emails?</title>
+        <author>
+            <name>Transactionl</name>
+        </author>
+        <link href="https://transactionl.github.io/support-v1/do-you-allow-marketing-emails/"/>
+        <id>https://transactionl.github.io/support-v1/do-you-allow-marketing-emails/</id>
+
+        <updated>2024-07-02T16:21:56+01:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><strong>No. You may not use Transactionl to send outgoing marketing emails, SPAM, unsolicited email or cold outreach.</strong></p>
+<p>Our customers rely on our services for reliable inbox placement and deliverability. The first step taken to achieve this is by keeping email marketers away from our services.</p>
+<p>You may only use Transactionl for transactional email - after all, it's in our name.</p>
+<p><strong>To those wanting to use Transactionl for spam or marketing emails:</strong></p>
+<div class="post__iframe"><iframe loading="lazy" width="480" height="254" src="https://giphy.com/embed/TAw49CPBGB5TOd2daU" frameborder="0" class="giphy-embed" allowfullscreen="allowfullscreen"></iframe></div>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>No. You may not use Transactionl to send outgoing marketing emails, SPAM, unsolicited email or cold outreach.</strong></p>
+<p>Our customers rely on our services for reliable inbox placement and deliverability. The first step taken to achieve this is by keeping email marketers away from our services.</p>
+<p>You may only use Transactionl for transactional email - after all, it's in our name.</p>
+<p><strong>To those wanting to use Transactionl for spam or marketing emails:</strong></p>
+<div class="post__iframe"><iframe loading="lazy" width="480" height="254" src="https://giphy.com/embed/TAw49CPBGB5TOd2daU" frameborder="0" class="giphy-embed" allowfullscreen="allowfullscreen"></iframe></div>
+
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>How do I use Transactionl with WordPress?*</title>
+        <author>
+            <name>Transactionl</name>
+        </author>
+        <link href="https://transactionl.github.io/support-v1/integrating-with-wordpress/"/>
+        <id>https://transactionl.github.io/support-v1/integrating-with-wordpress/</id>
+
+        <updated>2024-07-02T15:01:55+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>What are your sending limits?</title>
+        <author>
+            <name>Transactionl</name>
+        </author>
+        <link href="https://transactionl.github.io/support-v1/our-sending-limits/"/>
+        <id>https://transactionl.github.io/support-v1/our-sending-limits/</id>
+            <category term="Presales"/>
+
+        <updated>2024-07-02T02:19:04+01:00</updated>
+            <summary>
+                <![CDATA[
+                    If you're wondering about our sending limits and how they work, you're in the right place. Our sending limit is simple: 300 outgoing emails per hour, per mailbox. You may not use multiple mailboxes for the same purpose to circumvent this limit for the same use case. However, you can (and should!) use separate mailboxes for separate purposes/use cases. If you genuinely need to send more than 300 transactional emails per hour, please let us know - we do increase this limit on a case-by-case basis. This is because our provider enforces limits in order to preserve deliverability and prevent abuse by spammers. In this example, our customer has separated their mailboxes for different purposes, so they can send up to 300 outgoing emails/hour for each different purpose/use case: form@example.com - Contact Form Notification (300/h) updates@example.com - WordPress Plugins/Theme/Core Notifications (300/h) billing@example.com - Billing Notifications (300/h) In this example, our customer is using 3 different inboxes for the purpose/same use case, in order to circumvent the 300 outgoing emails/hour limit. This is not allowed, and is considered abuse of our service: billing@example.com - Billing 1 (300/h) billing2@example.com - Billing 2 (600/h) billing3@example.com - Billing 3 (900/h)
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>If you're wondering about our sending limits and how they work, you're in the right place.</p>
+<h2>What are your sending limits?</h2>
+<p>Our sending limit is simple: 300 outgoing emails per hour, <em>per mailbox</em>.</p>
+<p>You may not use multiple mailboxes for the same purpose to circumvent this limit for the same use case. However, you can (and should!) use separate mailboxes for <em>separate</em> purposes/use cases.</p>
+<p>If you genuinely need to send more than 300 transactional emails per hour, please let us know - we do increase this limit on a case-by-case basis. This is because our provider enforces limits in order to preserve deliverability and prevent abuse by spammers.</p>
+<h3>✅ Allowed</h3>
+<p>In this example, our customer has separated their mailboxes for different purposes, so they can send up to 300 outgoing emails/hour for each different purpose/use case:</p>
+<p>form@example.com - Contact Form Notification (300/h)<br>updates@example.com - WordPress Plugins/Theme/Core Notifications (300/h)<br>billing@example.com - Billing Notifications (300/h)</p>
+<h3>❌ Not allowed</h3>
+<p>In this example, our customer is using 3 different inboxes for the purpose/same use case, in order to circumvent the 300 outgoing emails/hour limit. This is not allowed, and is considered abuse of our service:</p>
+<p>billing@example.com - Billing 1 (300/h)<br>billing2@example.com - Billing 2 (600/h)<br>billing3@example.com - Billing 3 (900/h)</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>How to integrate Transactionl into my application?*</title>
+        <author>
+            <name>Transactionl</name>
+        </author>
+        <link href="https://transactionl.github.io/support-v1/how-to-integrate-transactionl-into-my-application/"/>
+        <id>https://transactionl.github.io/support-v1/how-to-integrate-transactionl-into-my-application/</id>
+
+        <updated>2024-07-01T19:55:44+01:00</updated>
+            <summary>
+                <![CDATA[
+                    x
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>x</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>How do I set up my DNS records? (MX, SPF, DKIM &amp; DMARC)*</title>
+        <author>
+            <name>Transactionl</name>
+        </author>
+        <link href="https://transactionl.github.io/support-v1/dns-records/"/>
+        <id>https://transactionl.github.io/support-v1/dns-records/</id>
+
+        <updated>2024-06-30T19:56:39+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Before looking here for your DNS records, you should ALWAYS be referencing the email you receive when you sign up with “Important Account Information” in the subject. However, this page might help you to construct the details or alternate values to those details in the event that you have lost it or are seeking more information. d d d d d
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Before looking here for your DNS records, you should ALWAYS be referencing the email you receive when you sign up with “Important Account Information” in the subject.</p>
+<p>However, this page might help you to construct the details or alternate values to those details in the event that you have lost it or are seeking more information.</p>
+<h2>DNS</h2>
+<p>d</p>
+<h2>MX</h2>
+<p>d</p>
+<h2>SPF</h2>
+<p>d</p>
+<h2>DKIM</h2>
+<p>d</p>
+<h2>DMARC</h2>
+<p>d</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>What is transactional email and what is it for?</title>
+        <author>
+            <name>Transactionl</name>
+        </author>
+        <link href="https://transactionl.github.io/support-v1/what-is-transactional-email-and-what-is-it-for/"/>
+        <id>https://transactionl.github.io/support-v1/what-is-transactional-email-and-what-is-it-for/</id>
+            <category term="Presales"/>
+            <category term="Getting Started"/>
+
+        <updated>2024-06-30T17:11:17+01:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>One of the questions we hear often at Transactionl is: <em>what is transactional email, and how is it different from other categories of email?</em></p>
+<h2><strong>What are transactional emails? A definition</strong></h2>
+<p>Transactional emails are automated messages triggered by a user's action on a website or application. These personalised emails contain unique content specific to the individual and are typically sent one-to-one. Common examples include:</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>One of the questions we hear often at Transactionl is: <em>what is transactional email, and how is it different from other categories of email?</em></p>
+<h2><strong>What are transactional emails? A definition</strong></h2>
+<p>Transactional emails are automated messages triggered by a user's action on a website or application. These personalised emails contain unique content specific to the individual and are typically sent one-to-one. Common examples include:</p>
+
+<ul>
+<li>Password reset emails</li>
+<li>Account creation emails</li>
+<li>Welcome emails</li>
+<li>Payment invoices</li>
+<li>Purchase receipts</li>
+<li>Order confirmation emails</li>
+<li>Shipping confirmations</li>
+<li>Delivery confirmations</li>
+<li>Payment failure notifications</li>
+</ul>
+<h2>What can I use Transactionl with?</h2>
+<p>Often, our customers use Transactionl with applications on the web such as:</p>
+<ul>
+<li>WordPress</li>
+<li>WooCommerce</li>
+<li>Microsoft Power Automate</li>
+<li>Bubble.io</li>
+<li>Zapier</li>
+<li>WHMCS</li>
+<li>Joomla!</li>
+<li>FreeScout</li>
+<li>..and many more!</li>
+</ul>
+<h2><strong>Why are transactional emails important?</strong></h2>
+<p>In general, recipients often anticipate and eagerly await these emails, frequently refreshing their inbox until they arrive. As a result, transactional emails play a critical role in maintaining a positive user experience and building trust with your customers, which is why we maintain high-reputation IP pools to ensure high levels of deliverability and inbox placement.</p>
+<h2><strong>Transactional vs. Marketing Email</strong></h2>
+<p>Two distinct types of emails exist: transactional and marketing. <strong>Transactional emails</strong> are personalised messages containing unique content, sent individually to each recipient, often in response to a specific action or event. In contrast, <strong>marketing emails</strong> (also referred to as promotional, broadcast, commercial, or bulk emails) involve sending the same message to a large number of recipients at once, with no personalised content. The most common types of marketing email include:</p>
+<ul>
+<li>Newsletters</li>
+<li>Limited-time offers</li>
+<li>Sales campaigns</li>
+<li>Event announcements </li>
+<li>Vouchers and giveaways</li>
+</ul>
+<p>As we are a <strong>transactional</strong> email service, we do not allow marketing emails to be sent using Transactionl as it damages our sender reputation. We regularly monitor and accounts misusing our services to send marketing emails to ensure excellent sender reputation and inbox placement for our customers.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
