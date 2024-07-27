@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Transactionl Docs</title>
-    <link href="https://transactionl.github.io/support-v1/feed.xml" rel="self" />
-    <link href="https://transactionl.github.io/support-v1" />
+    <link href="https://docs.transactionl.com/feed.xml" rel="self" />
+    <link href="https://docs.transactionl.com" />
     <updated>2024-07-25T23:55:35+01:00</updated>
     <author>
         <name>Transactionl</name>
     </author>
-    <id>https://transactionl.github.io/support-v1</id>
+    <id>https://docs.transactionl.com</id>
 
     <entry>
         <title>Attributions</title>
         <author>
             <name>Transactionl</name>
         </author>
-        <link href="https://transactionl.github.io/support-v1/attributions/"/>
-        <id>https://transactionl.github.io/support-v1/attributions/</id>
+        <link href="https://docs.transactionl.com/attributions/"/>
+        <id>https://docs.transactionl.com/attributions/</id>
             <category term="Legal"/>
 
         <updated>2024-07-25T20:35:56+01:00</updated>
@@ -40,8 +40,8 @@
         <author>
             <name>Transactionl</name>
         </author>
-        <link href="https://transactionl.github.io/support-v1/terms-of-service/"/>
-        <id>https://transactionl.github.io/support-v1/terms-of-service/</id>
+        <link href="https://docs.transactionl.com/terms-of-service/"/>
+        <id>https://docs.transactionl.com/terms-of-service/</id>
             <category term="Legal"/>
 
         <updated>2024-07-25T20:35:51+01:00</updated>
@@ -53,8 +53,8 @@
         <author>
             <name>Transactionl</name>
         </author>
-        <link href="https://transactionl.github.io/support-v1/privacy-policy/"/>
-        <id>https://transactionl.github.io/support-v1/privacy-policy/</id>
+        <link href="https://docs.transactionl.com/privacy-policy/"/>
+        <id>https://docs.transactionl.com/privacy-policy/</id>
             <category term="Legal"/>
 
         <updated>2024-07-25T20:35:37+01:00</updated>
@@ -74,8 +74,8 @@
         <author>
             <name>Transactionl</name>
         </author>
-        <link href="https://transactionl.github.io/support-v1/what-are-my-smtpimappop3-details/"/>
-        <id>https://transactionl.github.io/support-v1/what-are-my-smtpimappop3-details/</id>
+        <link href="https://docs.transactionl.com/what-are-my-smtpimappop3-details/"/>
+        <id>https://docs.transactionl.com/what-are-my-smtpimappop3-details/</id>
 
         <updated>2024-07-02T17:12:42+01:00</updated>
             <summary>
@@ -102,8 +102,8 @@
         <author>
             <name>Transactionl</name>
         </author>
-        <link href="https://transactionl.github.io/support-v1/do-you-allow-marketing-emails/"/>
-        <id>https://transactionl.github.io/support-v1/do-you-allow-marketing-emails/</id>
+        <link href="https://docs.transactionl.com/do-you-allow-marketing-emails/"/>
+        <id>https://docs.transactionl.com/do-you-allow-marketing-emails/</id>
 
         <updated>2024-07-02T16:21:56+01:00</updated>
             <summary>
@@ -133,8 +133,8 @@
         <author>
             <name>Transactionl</name>
         </author>
-        <link href="https://transactionl.github.io/support-v1/integrating-with-wordpress/"/>
-        <id>https://transactionl.github.io/support-v1/integrating-with-wordpress/</id>
+        <link href="https://docs.transactionl.com/integrating-with-wordpress/"/>
+        <id>https://docs.transactionl.com/integrating-with-wordpress/</id>
 
         <updated>2024-07-02T15:01:55+01:00</updated>
             <summary></summary>
@@ -145,8 +145,8 @@
         <author>
             <name>Transactionl</name>
         </author>
-        <link href="https://transactionl.github.io/support-v1/our-sending-limits/"/>
-        <id>https://transactionl.github.io/support-v1/our-sending-limits/</id>
+        <link href="https://docs.transactionl.com/our-sending-limits/"/>
+        <id>https://docs.transactionl.com/our-sending-limits/</id>
             <category term="Presales"/>
 
         <updated>2024-07-02T02:19:04+01:00</updated>
@@ -176,8 +176,8 @@
         <author>
             <name>Transactionl</name>
         </author>
-        <link href="https://transactionl.github.io/support-v1/how-to-integrate-transactionl-into-my-application/"/>
-        <id>https://transactionl.github.io/support-v1/how-to-integrate-transactionl-into-my-application/</id>
+        <link href="https://docs.transactionl.com/how-to-integrate-transactionl-into-my-application/"/>
+        <id>https://docs.transactionl.com/how-to-integrate-transactionl-into-my-application/</id>
 
         <updated>2024-07-01T19:55:44+01:00</updated>
             <summary>
@@ -196,8 +196,8 @@
         <author>
             <name>Transactionl</name>
         </author>
-        <link href="https://transactionl.github.io/support-v1/dns-records/"/>
-        <id>https://transactionl.github.io/support-v1/dns-records/</id>
+        <link href="https://docs.transactionl.com/dns-records/"/>
+        <id>https://docs.transactionl.com/dns-records/</id>
 
         <updated>2024-06-30T19:56:39+01:00</updated>
             <summary>
@@ -227,8 +227,8 @@
         <author>
             <name>Transactionl</name>
         </author>
-        <link href="https://transactionl.github.io/support-v1/what-is-transactional-email-and-what-is-it-for/"/>
-        <id>https://transactionl.github.io/support-v1/what-is-transactional-email-and-what-is-it-for/</id>
+        <link href="https://docs.transactionl.com/what-is-transactional-email-and-what-is-it-for/"/>
+        <id>https://docs.transactionl.com/what-is-transactional-email-and-what-is-it-for/</id>
             <category term="Presales"/>
             <category term="Getting Started"/>
 
