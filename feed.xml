@@ -3,7 +3,7 @@
     <title>Transactionl Docs</title>
     <link href="https://docs.transactionl.com/feed.xml" rel="self" />
     <link href="https://docs.transactionl.com" />
-    <updated>2024-08-02T08:37:07+01:00</updated>
+    <updated>2024-08-03T19:18:49+01:00</updated>
     <author>
         <name>Transactionl</name>
     </author>
@@ -18,10 +18,19 @@
         <id>https://docs.transactionl.com/who-is-transactionl-aimed-towards/</id>
             <category term="Presales"/>
 
-        <updated>2024-07-31T18:27:50+01:00</updated>
+        <updated>2024-08-03T19:06:50+01:00</updated>
             <summary>
                 <![CDATA[
-                    Transactionl is aimed towards small/medium businesses that need transactional email across multiple websites and applications, with top deliverability at a low cost. Some examples of customers using Transactionl are: 💡 Did you know: Transactionl is perfect low-cost solution for agencies that need transactional email across multiple applications and websites. Our agency plan provides unlimited mailboxes and domains, all at a very low cost.
+                    <p>Transactionl is aimed towards small/medium businesses that need transactional email across multiple websites and applications, with top deliverability at a low cost.</p>
+<h2>Example use-cases</h2>
+<p>Some examples of customers using Transactionl are:</p>
+<ul>
+<li><strong>WordPress, Drupal &amp; Joomla:</strong> Our customers use Transactionl with popular content management systems. Some examples are password resets, post notifications, comment notifications, and WordPress update notifications.</li>
+<li><strong>E-commerce websites:</strong> Our customers use Transactionl with applications such as Shopify and WooCommerce. Some examples are order confirmations, shipping notifications, and delivery updates.</li>
+<li><strong>Agencies:</strong> Many of our customers are agencies that manage websites and applications on behalf of multiple clients. Some example use-cases are CRMs such as Salesforce and Zoho CRM, and e-commerce websites using WooCommerce and Shopify.</li>
+</ul>
+<p>💡 <strong>Did you know: </strong>Transactionl is perfect low-cost solution for agencies that need transactional email across multiple applications and websites. Our agency plan provides unlimited mailboxes and domains, all at a very low cost.</p>
+
                 ]]>
             </summary>
         <content type="html">
@@ -35,11 +44,12 @@
 <li><strong>Agencies:</strong> Many of our customers are agencies that manage websites and applications on behalf of multiple clients. Some example use-cases are CRMs such as Salesforce and Zoho CRM, and e-commerce websites using WooCommerce and Shopify.</li>
 </ul>
 <p>💡 <strong>Did you know: </strong>Transactionl is perfect low-cost solution for agencies that need transactional email across multiple applications and websites. Our agency plan provides unlimited mailboxes and domains, all at a very low cost.</p>
+
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Setup Guide</title>
+        <title>Setup Guide*</title>
         <author>
             <name>Transactionl</name>
         </author>
@@ -47,7 +57,7 @@
         <id>https://docs.transactionl.com/setup-guide/</id>
             <category term="Getting Started"/>
 
-        <updated>2024-07-28T13:57:28+01:00</updated>
+        <updated>2024-08-03T19:18:49+01:00</updated>
             <summary>
                 <![CDATA[
                     <h1>1. Purchase a package</h1>
@@ -134,7 +144,7 @@
         <id>https://docs.transactionl.com/attributions/</id>
             <category term="Legal"/>
 
-        <updated>2024-07-25T20:35:56+01:00</updated>
+        <updated>2024-07-27T22:41:37+01:00</updated>
             <summary>
                 <![CDATA[
                     <h2>Special Thanks</h2>
@@ -167,7 +177,7 @@
         <id>https://docs.transactionl.com/terms-of-service/</id>
             <category term="Legal"/>
 
-        <updated>2024-07-25T20:35:51+01:00</updated>
+        <updated>2024-07-25T20:40:54+01:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -180,7 +190,7 @@
         <id>https://docs.transactionl.com/privacy-policy/</id>
             <category term="Legal"/>
 
-        <updated>2024-07-25T20:35:37+01:00</updated>
+        <updated>2024-07-25T20:40:57+01:00</updated>
             <summary>
                 <![CDATA[
                     Content
@@ -202,7 +212,7 @@
             <category term="Troubleshooting"/>
             <category term="Getting Started"/>
 
-        <updated>2024-07-02T17:12:42+01:00</updated>
+        <updated>2024-08-02T08:26:00+01:00</updated>
             <summary>
                 <![CDATA[
                     <p>In most cases, all you require is SMTP to use Transactionl with your application.</p>
@@ -231,7 +241,7 @@
         <id>https://docs.transactionl.com/do-you-allow-marketing-emails/</id>
             <category term="Presales"/>
 
-        <updated>2024-07-02T16:21:56+01:00</updated>
+        <updated>2024-08-02T08:27:33+01:00</updated>
             <summary>
                 <![CDATA[
                     <p><strong>No. You may not use Transactionl to send outgoing marketing emails, SPAM, unsolicited email or cold outreach.</strong></p>
@@ -263,7 +273,7 @@
         <id>https://docs.transactionl.com/integrating-with-wordpress/</id>
             <category term="Getting Started"/>
 
-        <updated>2024-07-02T15:01:55+01:00</updated>
+        <updated>2024-08-02T08:27:44+01:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -276,7 +286,7 @@
         <id>https://docs.transactionl.com/transactionl-limits/</id>
             <category term="Presales"/>
 
-        <updated>2024-07-02T02:19:04+01:00</updated>
+        <updated>2024-07-31T21:59:21+01:00</updated>
             <summary>
                 <![CDATA[
                     <p>If you're wondering about our service limits and how they work, you're in the right place.</p>
@@ -334,24 +344,23 @@
         <id>https://docs.transactionl.com/dns-records/</id>
             <category term="Getting Started"/>
 
-        <updated>2024-06-30T19:56:39+01:00</updated>
+        <updated>2024-08-02T23:21:37+01:00</updated>
             <summary>
                 <![CDATA[
-                    Before looking here for your DNS records, you should ALWAYS be referencing the email you receive when you sign up with “Important Account Information” in the subject. However, this page might help you to construct the details or alternate values to those details in the event that you have lost it or are seeking more information. d d d d d
+                    Before looking here for your DNS records, you should ALWAYS be referencing the email you receive when you sign up with “Important Account Information” in the subject. However, this page might help you to construct the details or alternate values to those details in the event that you have lost it or are seeking more information. mail.everest.transactionl.com "v=spf1 include:mxspf.com -all" DKIM records can be found within your DirectAdmin panel and need to be pasted to your d
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Before looking here for your DNS records, you should ALWAYS be referencing the email you receive when you sign up with “Important Account Information” in the subject.</p>
 <p>However, this page might help you to construct the details or alternate values to those details in the event that you have lost it or are seeking more information.</p>
-<h2>DNS</h2>
-<p>d</p>
+<h1>DNS</h1>
 <h2>MX</h2>
-<p>d</p>
+<p>mail.everest.transactionl.com</p>
 <h2>SPF</h2>
-<p>d</p>
+<p>"v=spf1 include:mxspf.com -all"</p>
 <h2>DKIM</h2>
-<p>d</p>
+<p>DKIM records can be found within your DirectAdmin panel and need to be pasted to your </p>
 <h2>DMARC</h2>
 <p>d</p>
             ]]>
